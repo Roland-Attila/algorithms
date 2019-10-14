@@ -15,5 +15,4 @@ public class RetirementCalculator {
         System.out.println("You have " + remainingYears + " years left until retirement. ");
         System.out.println("It's " + (currentDate.getYear() + " so you can retire in " + currentDate.getYear() + remainingYears));
     }
-
 }
